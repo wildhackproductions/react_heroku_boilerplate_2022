@@ -2,7 +2,7 @@ Installation
 
 Download .zip and extract, or pull repository
 
-In command prompt, cd into react_boilerplate-main
+In command prompt, cd into react_boilerplate_2022
 1. run "npm install"
 2. "cd client"
 3. run "npm install"
